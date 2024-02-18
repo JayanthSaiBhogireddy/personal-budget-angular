@@ -25,7 +25,7 @@ const budget = require("./data.json");
 console.log(budget)
 
 app.get("/hello", (req,res) => {
-    res.send("Hello I'm Jayanth");
+    res.send("Hello Abinaya");
 })
 
 app.get("/budget", (req,res) => {
